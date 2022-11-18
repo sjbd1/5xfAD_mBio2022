@@ -1,0 +1,18 @@
+names	padj
+1	Turicibacter.sp..H121	0.00102231360256173
+2	Romboutsia.ilealis	0.00720502631416169
+3	Alistipes.megaguti	0.0233187005403168
+4	Alistipes.dispar	0.0233187005403168
+5	Alistipes.onderdonkii	0.0233187005403168
+6	Alistipes.shahii	0.0233187005403168
+7	Ligilactobacillus.murinus	0.0233187005403168
+8	Lactobacillus.sp..P38	0.0233187005403168
+9	Alistipes.finegoldii	0.0233187005403168
+10	Duncaniella.sp..C9	0.0233187005403168
+11	Ligilactobacillus.animalis	0.0238935401456876
+12	Alistipes.communis	0.0244753635615601
+13	Duncaniella.sp..B8	0.0259395923880568
+14	Muribaculum.intestinale	0.0407842960943313
+15	Lactobacillus.johnsonii	0.0407842960943313
+16	Adlercreutzia.equolifaciens	0.049
+17	Burkholderiales.bacterium.YL45	0.049
